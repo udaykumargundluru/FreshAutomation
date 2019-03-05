@@ -1,0 +1,6 @@
+com\qa\hubspot\Utils\TestUtils.class
+com\qa\hubspot\Base\BasePage.class
+com\qa\hubspot\pages\ContactsPage.class
+com\qa\hubspot\pages\LoginPage.class
+com\qa\hubspot\constants\Constants.class
+com\qa\hubspot\pages\HomePage.class
